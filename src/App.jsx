@@ -1,5 +1,4 @@
 
-import React from 'react';
 import KartuProfil from './KartuProfil.jsx';
 import BadgeSkill from './BadgeSkill.jsx';
 import ItemMatkul from './ItemMatkul.jsx';

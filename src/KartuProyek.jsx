@@ -1,6 +1,4 @@
 
-import React from 'react';
-
 function KartuProyek({ judul, deskripsi, teknologi, github }) {
   return (
     <div style={{
